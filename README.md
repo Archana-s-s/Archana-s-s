@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Archana-s-s
+- 👀 I’m interested in Data analyst
+- 🌱 I’m currently learning Machine learning
